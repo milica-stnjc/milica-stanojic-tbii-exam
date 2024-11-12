@@ -15,4 +15,4 @@ if page_selection == "Generate QR Code":
 elif page_selection == "Decode QR Code":
     decode_qrcode()
 elif page_selection == "About Me":
-    st.write("Hi, my name is Milica Stanojic")
+    st.write("Hi, this is from Milica Stanojic")
